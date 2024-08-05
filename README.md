@@ -1,6 +1,8 @@
 
 # FundMe Project. 
 ---
+## About
+This is a crowd sourcing app.
 The contracts in this project were made using solidity.
 The tests in this project are created using Foundry.
 
